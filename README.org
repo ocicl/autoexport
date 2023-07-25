@@ -1,0 +1,10 @@
+* autoexport
+
+A small library to automatically export definitions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fami-com/autoexport.git   |
+| commit  | 62e5917  |
+| systems | autoexport |
+|---------+-------------------------------------------|
+
